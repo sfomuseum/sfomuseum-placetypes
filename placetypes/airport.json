@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "airport",
+    "sfomuseum:label" "Airport",
+    "sfomuseum:parent": [ "locality", "localadmin" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "campus"
+    }, 
+    "sfomuseum:id": 1175747225
+}

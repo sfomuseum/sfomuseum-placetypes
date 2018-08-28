@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "terminal",
+    "sfomuseum:label": "Terminal",
+    "sfomuseum:parent": [ "building" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "wing"
+    }, 
+    "sfomuseum:id": 1175747235
+}

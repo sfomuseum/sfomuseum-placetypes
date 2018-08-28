@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "gallery",
+    "sfomuseum:label": "Gallery",
+    "sfomuseum:parent": [ "boardingarea", "commonarea" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "enclosure"
+    }, 
+    "sfomuseum:id": 1175747233
+}

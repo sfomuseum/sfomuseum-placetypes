@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common_optional", 
+    "sfomuseum:name": "publicart",
+    "sfomuseum:label": "Public Art",
+    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "venue"
+    }, 
+    "sfomuseum:id": 1175747251
+}

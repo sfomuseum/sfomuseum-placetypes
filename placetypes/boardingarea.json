@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "boardingarea",
+    "sfomuseum:label": "Boarding Area",
+    "sfomuseum:parent": [ "terminal" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "concourse"
+    }, 
+    "sfomuseum:id": 1175747237
+}
