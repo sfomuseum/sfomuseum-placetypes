@@ -1,7 +1,7 @@
 {
     "sfomuseum:role": "common", 
     "sfomuseum:name": "gate",
-    "sfomuseum:label" "Gate",
+    "sfomuseum:label": "Gate",
     "sfomuseum:parent": [ "boardingarea" ], 
     "sfomuseum:concordances": {
 	"wof:placetype": "venue"
