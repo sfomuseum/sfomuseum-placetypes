@@ -1,0 +1,7 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "waypoint",
+    "sfomuseum:label": "Waypoint",
+    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "building", "campus" ], 
+    "sfomuseum:id": 1813348007
+}
