@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "common", 
+    "sfomuseum:role": "custom", 
     "sfomuseum:name": "waypoint",
     "sfomuseum:label": "Waypoint",
     "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "building", "campus" ], 

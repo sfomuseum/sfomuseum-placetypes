@@ -1,8 +1,8 @@
 {
-    "sfomuseum:role": "common", 
+    "sfomuseum:role": "custom", 
     "sfomuseum:name": "terminal",
     "sfomuseum:label": "Terminal",
-    "sfomuseum:parent": [ "building" ], 
+    "sfomuseum:parent": [ "building", "airport" ], 
     "sfomuseum:concordances": {
 	"wof:placetype": "wing"
     }, 

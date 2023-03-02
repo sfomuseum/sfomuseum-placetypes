@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "common", 
+    "sfomuseum:role": "custom", 
     "sfomuseum:name": "boardingarea",
     "sfomuseum:label": "Boarding Area",
     "sfomuseum:parent": [ "terminal" ], 

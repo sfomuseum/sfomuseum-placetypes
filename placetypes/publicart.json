@@ -1,8 +1,8 @@
 {
-    "sfomuseum:role": "common_optional", 
+    "sfomuseum:role": "custom", 
     "sfomuseum:name": "publicart",
     "sfomuseum:label": "Public Art",
-    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal" ], 
+    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "airport" ], 
     "sfomuseum:concordances": {
 	"wof:placetype": "venue"
     }, 
