@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common_optional", 
     "sfomuseum:name": "gate",
     "sfomuseum:label": "Gate",
     "sfomuseum:parent": [ "boardingarea" ], 

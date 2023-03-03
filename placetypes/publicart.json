@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common", 
     "sfomuseum:name": "publicart",
     "sfomuseum:label": "Public Art",
     "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "airport" ], 

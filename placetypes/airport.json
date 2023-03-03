@@ -1,8 +1,8 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common", 
     "sfomuseum:name": "airport",
     "sfomuseum:label": "Airport",
-    "sfomuseum:parent": [ "locality", "localadmin", "custom" ], 
+    "sfomuseum:parent": [ "locality", "localadmin", "county", "region" ], 
     "sfomuseum:concordances": {
 	"wof:placetype": "campus"
     }, 

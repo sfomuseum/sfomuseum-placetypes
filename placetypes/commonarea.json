@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common", 
     "sfomuseum:name": "commonarea",
     "sfomuseum:label": "Common Area",
     "sfomuseum:parent": [ "terminal" ], 

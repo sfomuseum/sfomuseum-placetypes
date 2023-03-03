@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common", 
     "sfomuseum:name": "terminal",
     "sfomuseum:label": "Terminal",
     "sfomuseum:parent": [ "building", "airport" ], 

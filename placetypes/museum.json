@@ -1,5 +1,5 @@
 {
-    "sfomuseum:role": "custom", 
+    "sfomuseum:role": "common", 
     "sfomuseum:name": "museum",
     "sfomuseum:label": "Museum",
     "sfomuseum:parent": [ "microhood", "macrohood", "airport", "campus", "locality", "localadmin" ], 
