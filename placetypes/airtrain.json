@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "airtrain",
+    "sfomuseum:label": "AirTrain",
+    "sfomuseum:parent": [ "building", "airport", "campus" ],
+    "sfomuseum:concordances": {
+	"wof:placetype": "arcade"
+    }, 
+    "sfomuseum:id": 1914665251
+}
