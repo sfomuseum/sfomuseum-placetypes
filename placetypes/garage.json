@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "garage",
+    "sfomuseum:label": "Garage",
+    "sfomuseum:parent": [ "campus", "locality", "localadmin", "county", "region" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "building"
+    }, 
+    "sfomuseum:id": 1914665333
+}

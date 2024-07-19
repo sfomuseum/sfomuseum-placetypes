@@ -1,0 +1,7 @@
+{
+    "sfomuseum:role": "optional", 
+    "sfomuseum:name": "rail",
+    "sfomuseum:label": "AirTrain Rail",
+    "sfomuseum:parent": [ "airport", "campus" ], 
+    "sfomuseum:id": 1914665369
+}

@@ -2,6 +2,6 @@
     "sfomuseum:role": "optional", 
     "sfomuseum:name": "waypoint",
     "sfomuseum:label": "Waypoint",
-    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "building", "airtrain", "airport", "campus" ], 
+    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal", "hotel", "garage", "building", "airtrain", "airport", "campus" ], 
     "sfomuseum:id": 1813348007
 }
