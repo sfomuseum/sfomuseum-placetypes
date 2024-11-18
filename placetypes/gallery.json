@@ -2,7 +2,7 @@
     "sfomuseum:role": "common", 
     "sfomuseum:name": "gallery",
     "sfomuseum:label": "Gallery",
-    "sfomuseum:parent": [ "boardingarea", "commonarea", "terminal" ], 
+    "sfomuseum:parent": [ "museum", "boardingarea", "commonarea", "terminal" ], 
     "sfomuseum:concordances": {
 	"wof:placetype": "enclosure"
     }, 

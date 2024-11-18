@@ -1,0 +1,10 @@
+{
+    "sfomuseum:role": "common", 
+    "sfomuseum:name": "exhibition",
+    "sfomuseum:label": "Exhibition",
+    "sfomuseum:parent": [ "gallery", "museum" ], 
+    "sfomuseum:concordances": {
+	"wof:placetype": "installation"
+    }, 
+    "sfomuseum:id": 1947305487
+}
